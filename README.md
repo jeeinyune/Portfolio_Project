@@ -18,7 +18,7 @@ My Resume: [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/ma
 - [Contact](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#contacts)
 
 ## Portfolio Projects
-### Python
+### `Python`
 
 #### 1. Exploratory Data Analysis on NYPD Arrest Data
 
@@ -29,20 +29,37 @@ My Resume: [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/ma
   
 
   #### 2. Risky Data Analysis
-  **Code:** [`Analyzing the Factors Contributing to the Success of a Movie.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
-  **Description:** The project involves calculating portfolio weights, returns, and risks using MSCI indices and Treasury Bonds data, incorporating key statistical analyses. The analysis includes plotting efficient frontiers and asset classes on a risk-return graph, achieving a minimum variance of 8.1% and an equal-weighted portfolio return of 7.3%. Additionally, the project evaluates covariance and correlation matrices, identifying the highest covariance of 0.012 and correlation of 0.85. A beta analysis was conducted, with betas of 1.2 for MSCI AC WORLD and 1.3 for MSCI USA.
-  **Skills:** portfolio management, statistical analysis, data manipulation, statistical modeling, data visualization, descriptive statistics, covariance and correlation analysis, risk and return analysis, mean variance optimization, efficient frontier calculation, distribution analysis, portfolio optimization, regression analysis.
-  **Technology:** Python, Pandas, Numpy, Matplotlib, Statsmodels.
+  <p style="margin:0;"><strong>Code:</strong> <a href="https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb">Analyzing the Factors Contributing to the Success of a Movie.ipynb</a></p>
+  <p style="margin:0;"><strong>Description:</strong> The project involves calculating portfolio weights, returns, and risks using MSCI indices and Treasury Bonds data, incorporating key statistical analyses. The analysis includes plotting efficient frontiers and asset classes on a risk-return graph, achieving a minimum variance of 8.1% and an equal-weighted portfolio return of 7.3%. Additionally, the project evaluates covariance and correlation matrices, identifying the highest covariance of 0.012 and correlation of 0.85. A beta analysis was conducted, with betas of 1.2 for MSCI AC WORLD and 1.3 for MSCI USA.</p>
+  <p style="margin:0;"><strong>Skills:</strong> portfolio management, statistical analysis, data manipulation, statistical modeling, data visualization, descriptive statistics, covariance and correlation analysis, risk and return analysis, mean variance optimization, efficient frontier calculation, distribution analysis, portfolio optimization, regression analysis.</p>
+  <p style="margin:0;"><strong>Technology:</strong> Python, Pandas, Numpy, Matplotlib, Statsmodels.</p>
 
+### `Excel VBA`
 
+#### 1. Financial Dashboard Automation Solutions
+
+  <p style="margin:0;"><strong>Code:</strong> <a href="https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb">Analyzing the Factors Contributing to the Success of a Movie.ipynb</a></p>
+  <p style="margin:0;"><strong>Description:</strong> The project involves automating the transformation of raw transaction data extracted from a personal bank account and the visualization of a monthly financial dashboard. This monthly financial dashboard features daily expenditure over the month, expenditures by category, top expenditures and expenditures on subscriptions to enable effective expense management and budget planning by identifying unecessary subscription bills and spending trends. </p>
+  <p style="margin:0;"><strong>Skills:</strong> data cleaning, data transformation, data visualization.</p>
+  <p style="margin:0;"><strong>Technology:</strong> Excel VBA, pivot table, conditional formatting, data visualization, LOOKUP, SEARCH, FIND</p>
+  
+
+### `Tableau`
+  #### 1. Auto Insurance Policy Dashboard
+  <p style="margin:0;"><strong>Code:</strong> <a href="https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb">Analyzing the Factors Contributing to the Success of a Movie.ipynb</a></p>
+  <p style="margin:0;"><strong>Description:</strong>Developed 2 Tableau dashboards to analyze auto insurance policy trends and customer demographics, providing comprehensive insights into insurance claim amounts, claim frequency, and claim counts, as well as detailed demographic data including gender, education, marital status, age, and income.</p>
+  <p style="margin:0;"><strong>Skills:</strong> data analysis, data visualization.</p>
+  <p style="margin:0;"><strong>Technology:</strong> Tableau</p>
 
 ## Education
-University of Colorado, Boulder: 
-Master of Science - MS, Data Science,
-Dec 2022 - Dec 2024
+  **New York University**<br>
+  Bachelor of Arts in Mathematics <br>
+  Minor in Computer Science <br>
+  September 2017 - May 2021 
 
 The University of the West Indies, Mona:
-Bachelor's degree, Biochemistry and Molecular Biology,
+Bachelor of Arts in Mathematics, 
+Minor in Computer Science
 2019 - 2022
 
 Pre University School:
