@@ -40,6 +40,8 @@ My Resume: [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/ma
   <p style="margin:0;"><strong>Skills:</strong> portfolio management, statistical analysis, data manipulation, statistical modeling, data visualization, descriptive statistics, covariance and correlation analysis, risk and return analysis, mean variance optimization, efficient frontier calculation, distribution analysis, portfolio optimization, regression analysis.</p>
   <p style="margin:0;"><strong>Technology:</strong> Python, Pandas, Numpy, Matplotlib, Statsmodels.</p>
 
+   ![NYPD Arrest Data EDA](visuals/risky_asset_pic.png)
+
 ### `Excel VBA`
 
 #### 1. Financial Dashboard Automation Solutions
@@ -56,6 +58,8 @@ My Resume: [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/ma
   <p style="margin:0;"><strong>Description:</strong>Developed 2 Tableau dashboards to analyze auto insurance policy trends and customer demographics, providing comprehensive insights into insurance claim amounts, claim frequency, and claim counts, as well as detailed demographic data including gender, education, marital status, age, and income.</p>
   <p style="margin:0;"><strong>Skills:</strong> data analysis, data visualization.</p>
   <p style="margin:0;"><strong>Technology:</strong> Tableau</p>
+
+![NYPD Arrest Data EDA](visuals/insurance_tableau_dashboards_pic.png)
 
 <br>
   
