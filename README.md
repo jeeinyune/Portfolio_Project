@@ -6,7 +6,7 @@ My Resume: [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/ma
 <br>
 
 ## Table of Contents
-- [Portfolio Projects](https://github.com/jeeinyune/Data_Analysis_Portfolio/main/README.md#portfolio-projects)
+- [Portfolio Projects](https://github.com/jeeinyune/Data_Analysis_Portfolio/blob/main/README.md#portfolio-projects)
   - [Python](https://github.com/jeeinyune/Data_Analysis_Portfolio/edit/main/README.md#Python)
     - [Exploratory Data Analysis on NYPD Arrest Data]
     - [Risky Data Analysis]
