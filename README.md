@@ -3,19 +3,22 @@ Following are my projects in Python, Tableau and Excel
 
 My Resume: [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf).
 
+<br>
+
 ## Table of Contents
-- [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
-  - [Python](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
-    - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
-    - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)  
-  - [Tableau](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
-    - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio#covid-19-data-exploration)
-    - [Nashville Housing Data Cleaning](https://github.com/tiannaparris/Data-Analysis-Portfolio#nashville-housing-data-cleaning)
-  - [Excel VBA](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
-    - [Legendary Pokémon Analysis (Study Project)](https://github.com/tiannaparris/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis)
+- [Portfolio Projects](https://github.com/jeeinyune/Data_Analysis_Portfolio/main/README.md#portfolio-projects)
+  - [Python](https://github.com/jeeinyune/Data_Analysis_Portfolio/edit/main/README.md#Python)
+    - [Exploratory Data Analysis on NYPD Arrest Data]
+    - [Risky Data Analysis]
+  - [Tableau](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#tableau)
+    - [Auto Insurance Policy Dashboard]
+  - [Excel VBA](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#excel-vba)
+    - [Financial Dashboard Automation Solutions]
 - [Education](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#education)  
 - [Certificates](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#certificates)
 - [Contact](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#contacts)
+
+<br>
 
 ## Portfolio Projects
 ### `Python`
@@ -26,6 +29,7 @@ My Resume: [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/ma
   <p style="margin:0;"><strong>Description:</strong> The dataset contains over 5,000,000 records from NYC OpenData, with 18 variables including arrest key, date, borough, age group, offense description, and more. The project involves data wrangling—loading, cleaning, preprocessing, and filling missing values—to uncover trends, patterns, and insights. The analysis includes charting key arrest statistics, focusing on trends over time and demographic distributions, and creating interactive plots to drill down into specific categories of arrests and demographic information.</p>
   <p style="margin:0;"><strong>Skills:</strong> data cleaning, detecting data anomalies, data analysis, dealing with outliers, data visualization, descriptive statistics.</p>
   <p style="margin:0;"><strong>Technology:</strong> Python, Pandas, Numpy, Seaborn, Matplotlib.</p>
+
   
 
   #### 2. Risky Data Analysis
@@ -51,27 +55,28 @@ My Resume: [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/ma
   <p style="margin:0;"><strong>Skills:</strong> data analysis, data visualization.</p>
   <p style="margin:0;"><strong>Technology:</strong> Tableau</p>
 
+<br>
+  
 ## Education
   **New York University**<br>
-  Bachelor of Arts in Mathematics <br>
-  Minor in Computer Science <br>
-  September 2017 - May 2021 
+  *Bachelor of Arts in Mathematics,* <br>
+  *Minor in Computer Science,* <br>
+  *September 2017 - May 2021*
 
-The University of the West Indies, Mona:
-Bachelor of Arts in Mathematics, 
-Minor in Computer Science
-2019 - 2022
+<br>
+  
+## Professional Exam
+- [Actuarial Exam](https://www.coursera.org/account/accomplishments/verify/62LME4DV8CUV) (SOA EXAM P: Probability, Passed) (Jan 2021) 
 
-Pre University School:
-Associate's degree, Science and Mathematics,
-2017 - 2019
+<br>
 
 ## Certificates
-The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
 - [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LRQ498UKBBSJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) (Sep 2022) (Coursera - Google)
-- [Tableau](https://www.coursera.org/account/accomplishments/verify/62LME4DV8CUV) (Oct 2022) (Coursera - University of California, Davis)
-- [Python for Data Science](https://coursera.org/share/a16ecd3de61dd794199c452586cba90c) (Feb 2023) (Coursera - University of Colorado Boulder)
+- [Introduction to Data Analysis Using Excel](https://www.coursera.org/account/accomplishments/verify/62LME4DV8CUV) (May 2022) (Coursera - Rice University)
+
+<br>
 
 ## Contacts
-- LinkedIn: [@tiannaparris](https://www.linkedin.com/in/tianna-parris-9b6823176/)
+- Email: parristianna@yahoo.com
+<!-- - LinkedIn: [@tiannaparris](https://www.linkedin.com/in/tianna-parris-9b6823176/) -->
 - Email: parristianna@yahoo.com
