@@ -30,7 +30,7 @@ My Resume: [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/ma
   <p style="margin:0;"><strong>Skills:</strong> data cleaning, detecting data anomalies, data analysis, dealing with outliers, data visualization, descriptive statistics.</p>
   <p style="margin:0;"><strong>Technology:</strong> Python, Pandas, Numpy, Seaborn, Matplotlib.</p>
 
-  ![NYPD Arrest Data EDA](visuals/house_price_eda_pic.png)
+  ![NYPD Arrest Data EDA](visuals/NYPD_arrest_eda_pic.png)
 
   
 
