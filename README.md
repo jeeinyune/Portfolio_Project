@@ -1,7 +1,6 @@
 # Jeein Yune - Project Portfolio
-Hello, I'm Jeein Yune
+Hello, I'm Jeein Yune. This is a repository I've created to showcase my skills, share projects and track my progress in Data Analytics related topics
 
-My Resume: [pdf]().
 
 <br>
 
