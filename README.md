@@ -60,7 +60,7 @@ My Resume: [pdf]().
   <p style="margin:0;"><strong>Skills:</strong> data cleaning, data transformation, data visualization.</p>
   <p style="margin:0;"><strong>Technology:</strong> Excel VBA, pivot table, conditional formatting, data visualization, LOOKUP, SEARCH, FIND</p>
 
-  ![Financial Dashboard Automation Solutions Gif](visuals/financial_dashboard_automation_gif.gif)
+  ![Financial Dashboard Automation Solutions Gif](visuals/financial_dashboard_automation_gif1.gif)
 
 ### `Tableau`
   #### 1. Auto Insurance Policy Dashboard
