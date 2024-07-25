@@ -45,7 +45,7 @@ My Resume: [pdf]().
 
   #### 3. Linear Regression, Features and Regularization on House Prices in Ames, Iowa
   <p style="margin:0;"><strong>Code:</strong> <a href="https://github.com/jeeinyune/Portfolio_Project/blob/main/House_Price_Python/House_Price_EDA1.ipynb">House Price EDA1.ipynb</a></p>
-  <p style="margin:0;"><strong>Description:</strong> The project studies house prices in Ames, Iowa using linear regression to predict sale prices from features such as size, number of bathrooms and neighborhood. While adding many features into the model, the project needs to avoid overfitting the training set using regularization along the way. And, Ridge Regression will be used to shrink the weights, requiring an extra parameter to control the extenet of shrinking. Validation will be applied to guess-and-check different values for the extra parameter.</p>
+  <p style="margin:0;"><strong>Description:</strong> The project studies house prices in Ames, Iowa using linear regression to predict sale prices from features such as size, number of bathrooms and neighborhood. While adding many features into the model, the project needs to avoid overfitting the training set using regularization along the way. And, Ridge Regression will be used to shrink the weights, requiring an extra parameter to control the extent of shrinking. Validation will be applied to guess-and-check different values for the extra parameter.</p>
   <p style="margin:0;"><strong>Skills:</strong> Exploratory Data Analysis, Data Processing, Linear Regression, Encoding Features, Modeling, Ridge Regression, Mean Square Error </p>
   <p style="margin:0;"><strong>Technology:</strong> Python, Pandas, Numpy, Matplotlib, Seaborn</p>
 
