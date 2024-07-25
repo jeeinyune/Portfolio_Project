@@ -81,7 +81,7 @@ My Resume: [pdf]().
 <br>
   
 ## Professional Exam
-- [Actuarial Exam](https://www.coursera.org/account/accomplishments/verify/62LME4DV8CUV) (SOA EXAM P: Probability, Passed) (Jan 2021) 
+- [Actuarial Exam](Files/soa Exam p Jan2021.pdf) (SOA EXAM P: Probability, Passed) (Jan 2021) 
 
 <br>
 
