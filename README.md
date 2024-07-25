@@ -55,7 +55,7 @@ My Resume: [pdf]().
 
 #### 1. Financial Dashboard Automation Solutions
 
-  <p style="margin:0;"><strong>Code:</strong> <a href="https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb">Analyzing the Factors Contributing to the Success of a Movie.ipynb</a></p>
+  <p style="margin:0;"><strong>Code:</strong> <a href="">Financial Dashboard Automation Solutions.xlsm</a></p>
   <p style="margin:0;"><strong>Description:</strong> The project involves automating the transformation of raw transaction data extracted from a personal bank account and the visualization of a monthly financial dashboard. This monthly financial dashboard features daily expenditure over the month, expenditures by category, top expenditures and expenditures on subscriptions to enable effective expense management and budget planning by identifying unecessary subscription bills and spending trends. </p>
   <p style="margin:0;"><strong>Skills:</strong> data cleaning, data transformation, data visualization.</p>
   <p style="margin:0;"><strong>Technology:</strong> Excel VBA, pivot table, conditional formatting, data visualization, LOOKUP, SEARCH, FIND</p>
@@ -63,7 +63,7 @@ My Resume: [pdf]().
 
 ### `Tableau`
   #### 1. Auto Insurance Policy Dashboard
-  <p style="margin:0;"><strong>Code:</strong> <a href="https://public.tableau.com/app/profile/jeein.yune5064/viz/CarInsurancePoliciesDashboard/CarInsuranceDashboard">Auto Insurance Policies Dashboard</a></p>
+  <p style="margin:0;"><strong>Code:</strong> <a href="https://public.tableau.com/app/profile/jeein.yune5064/viz/CarInsurancePoliciesDashboard/CarInsuranceDashboard">Auto Insurance Policy Dashboard</a></p>
   <p style="margin:0;"><strong>Description:</strong>Developed 2 Tableau dashboards to analyze auto insurance policy trends and customer demographics, providing comprehensive insights into insurance claim amounts, claim frequency, and claim counts, as well as detailed demographic data including gender, education, marital status, age, and income.</p>
   <p style="margin:0;"><strong>Skills:</strong> data analysis, data visualization.</p>
   <p style="margin:0;"><strong>Technology:</strong> Tableau</p>
