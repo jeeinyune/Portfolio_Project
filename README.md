@@ -92,6 +92,7 @@ My Resume: [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/ma
 <br>
 
 ## Contacts
-- Email: parristianna@yahoo.com
+- Email: yunejeein@gmail.com
 <!-- - LinkedIn: [@tiannaparris](https://www.linkedin.com/in/tianna-parris-9b6823176/) -->
-- Email: parristianna@yahoo.com
+- Phone: (516)-761-4362
+- Location: Renton, WA
