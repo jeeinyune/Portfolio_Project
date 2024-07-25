@@ -86,8 +86,11 @@ My Resume: [pdf]().
 <br>
 
 ## Certificates
-- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LRQ498UKBBSJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) (Sep 2022) (Coursera - Google)
-- [Introduction to Data Analysis Using Excel](https://www.coursera.org/account/accomplishments/verify/62LME4DV8CUV) (May 2022) (Coursera - Rice University)
+<!-- - [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LRQ498UKBBSJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) (Sep 2022) (Coursera - Google)
+- [Introduction to Data Analysis Using Excel](https://www.coursera.org/account/accomplishments/verify/62LME4DV8CUV) (May 2022) (Coursera - Rice University) -->
+
+- Google Data Analytics Professional Certificate
+- Introduction to Data Analysis Using Excel
 
 <br>
 
