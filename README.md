@@ -49,7 +49,7 @@ My Resume: [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/ma
   <p style="margin:0;"><strong>Skills:</strong> Exploratory Data Analysis, Data Processing, Linear Regression, Encoding Features, Modeling, Ridge Regression, Mean Square Error </p>
   <p style="margin:0;"><strong>Technology:</strong> Python, Pandas, Numpy, Matplotlib, Seaborn</p>
 
-   ![House Price Pic](house_price_pic.png)
+   ![House Price Pic](visuals/house_price_pic.png)
 
 ### `Excel VBA`
 
