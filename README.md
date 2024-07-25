@@ -97,5 +97,5 @@ My Resume: [pdf]().
 ## Contacts
 - Email: yunejeein@gmail.com
 <!-- - LinkedIn: [@tiannaparris](https://www.linkedin.com/in/tianna-parris-9b6823176/) -->
-- Phone: (516)-761-4362
-- Location: Renton, WA
+<!-- - Phone: (516)-761-4362 -->
+- Location: Seattle, WA
