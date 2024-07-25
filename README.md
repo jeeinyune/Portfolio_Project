@@ -55,7 +55,7 @@ My Resume: [pdf]().
 
 #### 1. Financial Dashboard Automation Solutions
 
-  <p style="margin:0;"><strong>Code:</strong> <a href="">Financial Dashboard Automation Solutions.xlsm</a></p>
+  <p style="margin:0;"><strong>Code:</strong> <a href="https://github.com/jeeinyune/Portfolio_Project/tree/main/Financial%20Dashboard%20Automation%20Solutions">Financial Dashboard Automation Solutions.xlsm</a></p>
   <p style="margin:0;"><strong>Description:</strong> The project involves automating the transformation of raw transaction data extracted from a personal bank account and the visualization of a monthly financial dashboard. This monthly financial dashboard features daily expenditure over the month, expenditures by category, top expenditures and expenditures on subscriptions to enable effective expense management and budget planning by identifying unecessary subscription bills and spending trends. </p>
   <p style="margin:0;"><strong>Skills:</strong> data cleaning, data transformation, data visualization.</p>
   <p style="margin:0;"><strong>Technology:</strong> Excel VBA, pivot table, conditional formatting, data visualization, LOOKUP, SEARCH, FIND</p>
