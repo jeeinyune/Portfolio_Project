@@ -7,16 +7,17 @@ My Resume: [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/ma
 
 ## Table of Contents
 - [Portfolio Projects](https://github.com/jeeinyune/Data_Analysis_Portfolio/blob/main/README.md#portfolio-projects)
-  - [Python](https://github.com/jeeinyune/Data_Analysis_Portfolio/edit/main/README.md#Python)
+  - [Python](https://github.com/jeeinyune/Data_Analysis_Portfolio/blob/main/README.md#Python)
     - [Exploratory Data Analysis on NYPD Arrest Data]
     - [Risky Data Analysis]
-  - [Tableau](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#tableau)
+    - [Linear Regression, Features and Regularization on House Prices in Ames, Iowa]
+  - [Tableau](https://github.com/jeeinyune/Data_Analysis_Portfolio/blob/main/README.md#tableau)
     - [Auto Insurance Policy Dashboard]
-  - [Excel VBA](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#excel-vba)
+  - [Excel VBA](https://github.com/jeeinyune/Data_Analysis_Portfolio/blob/main/README.md#excel-vba)
     - [Financial Dashboard Automation Solutions]
-- [Education](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#education)  
-- [Certificates](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#certificates)
-- [Contact](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#contacts)
+- [Education](https://github.com/jeeinyune/Data_Analysis_Portfolio/blob/main/README.md#education)  
+- [Certificates](https://github.com/jeeinyune/Data_Analysis_Portfolio/blob/main/README.md#certificates)
+- [Contact](https://github.com/jeeinyune/Data_Analysis_Portfolio/blob/main/README.md#contacts)
 
 <br>
 
@@ -40,7 +41,15 @@ My Resume: [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/ma
   <p style="margin:0;"><strong>Skills:</strong> portfolio management, statistical analysis, data manipulation, statistical modeling, data visualization, descriptive statistics, covariance and correlation analysis, risk and return analysis, mean variance optimization, efficient frontier calculation, distribution analysis, portfolio optimization, regression analysis.</p>
   <p style="margin:0;"><strong>Technology:</strong> Python, Pandas, Numpy, Matplotlib, Statsmodels.</p>
 
-   ![NYPD Arrest Data EDA](visuals/risky_asset_pic.png)
+  ![Risky Asset Pic](visuals/risky_asset_pic.png)
+
+  #### 3. Linear Regression, Features and Regularization on House Prices in Ames, Iowa
+  <p style="margin:0;"><strong>Code:</strong> <a href="https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb">Analyzing the Factors Contributing to the Success of a Movie.ipynb</a></p>
+  <p style="margin:0;"><strong>Description:</strong> The project studies house prices in Ames, Iowa using linear regression to predict sale prices from features such as size, number of bathrooms and neighborhood. While adding many features into the model, the project avoids overfitting the training set with regularization and use Ridge REgression to shrink the weights.</p>
+  <p style="margin:0;"><strong>Skills:</strong> Exploratory Data Analysis, Data Processing, Linear Regression, Encoding Features, Modeling, Ridge Regression, Mean Square Error </p>
+  <p style="margin:0;"><strong>Technology:</strong> Python, Pandas, Numpy, Matplotlib, Seaborn</p>
+
+   ![House Price Pic](house_price_pic.png)
 
 ### `Excel VBA`
 
@@ -59,7 +68,7 @@ My Resume: [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/ma
   <p style="margin:0;"><strong>Skills:</strong> data analysis, data visualization.</p>
   <p style="margin:0;"><strong>Technology:</strong> Tableau</p>
 
-![NYPD Arrest Data EDA](visuals/insurance_tableau_dashboards_pic.png)
+![Tableau Dashboard Pic](visuals/insurance_tableau_dashboards_pic.png)
 
 <br>
   
