@@ -26,7 +26,7 @@ My Resume: [pdf]().
 
 #### 1. Exploratory Data Analysis on NYPD Arrest Data
 
-  <p style="margin:0;"><strong>Code:</strong> <a href="https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb">Analyzing the Factors Contributing to the Success of a Movie.ipynb</a></p>
+  <p style="margin:0;"><strong>Code:</strong> <a href="https://github.com/jeeinyune/Portfolio_Project/blob/main/NYPD_Arrest_Data_Python/NYPD_Arrest_Data_Python.ipynb">NYPD Arrest Data Python.ipynb.ipynb</a></p>
   <p style="margin:0;"><strong>Description:</strong> The dataset contains over 5,000,000 records from NYC OpenData, with 18 variables including arrest key, date, borough, age group, offense description, and more. The project involves data wrangling—loading, cleaning, preprocessing, and filling missing values—to uncover trends, patterns, and insights. The analysis includes charting key arrest statistics, focusing on trends over time and demographic distributions, and creating interactive plots to drill down into specific categories of arrests and demographic information.</p>
   <p style="margin:0;"><strong>Skills:</strong> data cleaning, detecting data anomalies, data analysis, dealing with outliers, data visualization, descriptive statistics.</p>
   <p style="margin:0;"><strong>Technology:</strong> Python, Pandas, Numpy, Seaborn, Matplotlib.</p>
