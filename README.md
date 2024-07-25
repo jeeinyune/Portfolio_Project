@@ -1,7 +1,7 @@
 # Jeein Yune - Project Portfolio
-Following are my projects in Python, Tableau and Excel
+Hello, I'm Jeein Yune
 
-My Resume: [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf).
+My Resume: [pdf]().
 
 <br>
 
