@@ -81,7 +81,7 @@ My Resume: [pdf]().
 <br>
   
 ## Professional Exam
-- [Actuarial Exam](Files/soa Exam p Jan2021.pdf) (SOA EXAM P: Probability, Passed) (Jan 2021) 
+- [Actuarial Exam](https://github.com/jeeinyune/Portfolio_Project/blob/main/Files/soa%20Exam%20p%20Jan2021.pdf) (SOA EXAM P: Probability, Passed) (Jan 2021) 
 
 <br>
 
