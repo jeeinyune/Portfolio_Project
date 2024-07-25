@@ -36,7 +36,7 @@ My Resume: [pdf]().
   
 
   #### 2. Portfolio Risk Analysis
-  <p style="margin:0;"><strong>Code:</strong> <a href="https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb">Analyzing the Factors Contributing to the Success of a Movie.ipynb</a></p>
+  <p style="margin:0;"><strong>Code:</strong> <a href="Portfolio_Risk_Analysis/Portfolio Risk Analysis.ipynb">Portfolio Risk Analysis.ipynb</a></p>
   <p style="margin:0;"><strong>Description:</strong> The project involves calculating portfolio weights, returns, and risks using MSCI indices and Treasury Bonds data, incorporating key statistical analyses. The analysis includes plotting efficient frontiers and asset classes on a risk-return graph, achieving a minimum variance of 8.1% and an equal-weighted portfolio return of 7.3%. Additionally, the project evaluates covariance and correlation matrices, identifying the highest covariance of 0.012 and correlation of 0.85. A beta analysis was conducted, with betas of 1.2 for MSCI AC WORLD and 1.3 for MSCI USA.</p>
   <p style="margin:0;"><strong>Skills:</strong> portfolio management, statistical analysis, data manipulation, statistical modeling, data visualization, descriptive statistics, covariance and correlation analysis, risk and return analysis, mean variance optimization, efficient frontier calculation, distribution analysis, portfolio optimization, regression analysis.</p>
   <p style="margin:0;"><strong>Technology:</strong> Python, Pandas, Numpy, Matplotlib, Statsmodels.</p>
